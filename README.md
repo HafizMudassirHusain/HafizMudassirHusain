@@ -79,3 +79,8 @@
 ### 🏆 GitHub Trophies:
 ![trophy](https://github-profile-trophy.vercel.app/?username=hafizmudassirhusain&theme=flat&column=7&margin-w=10)
 
+---
+
+### 📈 Contribution Graph:
+[![Hafiz's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hafizmudassirhusain&bg_color=f0f8ff&color=0077b6&line=00b4d8&point=90e0ef&area=true&area_color=48cae4&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
