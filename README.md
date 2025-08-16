@@ -38,19 +38,20 @@
 
 ### 🛠️ Languages & Tools:
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,bootstrap,java,python,nodejs,express,mongodb,mysql,postgresql,firebase,git,github,vscode,postman,vue,django,flask,spring" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,html,css,tailwind,bootstrap,java,python,nodejs,express,mongodb,mysql,postgresql,firebase,git,github,vscode,postman,vue,django,flask,spring&theme=light" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmudassirhusain&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizmudassirhusain&show_icons=true&locale=en&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmudassirhusain&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hafizmudassirhusain&show_icons=true&locale=en&layout=compact&theme=default" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizmudassirhusain&show_icons=true&locale=en&theme=default" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizmudassirhusain&theme=default" height="150"/>
 </p>
 
 ---
+
 
 ### 🏆 Achievements & Certifications:
 - 🎓 **Certified in Web & Mobile App Development (SMIT)**  
