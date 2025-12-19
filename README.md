@@ -5,7 +5,7 @@ Full Stack Engineer • MERN & Next.js • NestJS • Automation & Voice-Driven 
 </h3>
 
 <p align="center">
-Building scalable web systems, automation platforms, and modern backend-driven applications.
+Designing scalable web systems, automation platforms, and modern backend-driven applications.
 </p>
 
 <p align="center">
@@ -16,55 +16,77 @@ Building scalable web systems, automation platforms, and modern backend-driven a
 
 ## 👨‍💻 Professional Overview
 
-I am a **Full Stack Developer** with strong hands-on experience in designing and developing  
-**end-to-end web systems** — from frontend interfaces to backend APIs, databases, and automation workflows.
+I am a **Full Stack Developer** with strong experience in building **end-to-end web applications**,  
+from modern frontend interfaces to scalable backend systems and databases.
 
-I transitioned from **Electrical Engineering to Software Engineering**, bringing structured problem-solving,
-system thinking, and real-world engineering discipline into my software work.
+I transitioned from **Electrical Engineering to Software Engineering**, combining engineering discipline,
+logical thinking, and system-level problem solving with modern web technologies.
 
-My focus areas include:
-- Backend-centric full stack development
-- Automation & scheduled task systems
+My core interests lie in:
+- Backend-heavy full stack systems
+- Automation & scheduled task platforms
 - Admin dashboards & internal tools
-- Voice-controlled and AI-assisted web interfaces
+- Voice-controlled & AI-assisted web interfaces
+
+---
+
+## 🧰 Services I Offer
+
+- ⚙️ **Full Stack Web Development**  
+  Scalable applications using React, Next.js, Node.js, NestJS
+
+- 🧠 **Backend API Development**  
+  REST APIs, authentication, role-based systems, clean architecture
+
+- 🤖 **Automation Systems**  
+  Email automation, scheduled jobs, background task execution
+
+- 🎙️ **Voice-Enabled Web Solutions**  
+  Speech-to-text, text-to-speech, voice navigation systems
+
+- 📊 **Admin Dashboards & Panels**  
+  Data-driven dashboards with modern UI/UX
+
+- 🗄️ **Database Design & Integration**  
+  Relational & NoSQL databases with optimized schemas
 
 ---
 
 ## 🔭 Current Work & Focus
 
 - ⚙️ **Automation Web Platform**  
-  Interval-based task execution (auto email sender as initial module)
+  Interval-based and repeatable task execution (Auto Email Sender module)
 
-- 🏥 **MediConnect (University Major Project)**  
-  Healthcare system with Admin Dashboard & mobile integration
+- 🏥 **MediConnect – Healthcare Management System**  
+  Admin dashboard + Android mobile app integration
 
-- 🎙️ **Voice-Driven Web Interfaces**  
-  Voice navigation, speech recognition & text-to-voice systems
+- 🎙️ **Voice-Controlled Web Interfaces**  
+  Voice navigation, speech recognition, accessibility-focused features
 
-- 🧠 Strengthening **NestJS, system design & scalable backend architecture**
+- 🧠 Improving **NestJS, backend scalability & system architecture**
 
 ---
 
 ## 🚀 Selected Projects
 
 **Vertex Vission Agency Platform**  
-Modern agency website with responsive UI  
+Modern agency website with clean UI  
 `React • Tailwind CSS`
 
 **Auto Email Automation System**  
-Task scheduling, logging & execution control  
+Task scheduling, logs, and execution control  
 `Node.js • React • MongoDB / Firebase`
 
 **MediConnect – Healthcare Management System**  
-Admin dashboard + Android application  
-`Java • Node.js • PostgreSQL • React`
+University major project  
+`Java (Android) • Node.js • PostgreSQL • React`
 
 **Loan Management System**  
-User, loan & repayment workflows  
+Loan, user, and repayment workflows  
 `Next.js • Express • PostgreSQL`
 
 **Text-to-Speech (TTS) Web App**  
-Convert text into spoken voice  
+Convert text into human-like voice  
 `JavaScript • Web Speech API`
 
 **Speech-to-Text (STT) Application**  
@@ -72,7 +94,7 @@ Real-time voice recognition
 `JavaScript • Browser APIs`
 
 **Voice-Controlled Web Navigation**  
-Hands-free website navigation via voice commands  
+Hands-free website interaction  
 `React • JavaScript • Web Speech API`
 
 ---
@@ -80,29 +102,45 @@ Hands-free website navigation via voice commands
 ## 🛠️ Tech Stack (Domain Wise)
 
 ### 🎨 Frontend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind,bootstrap&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vue&theme=light" />
 </p>
 
 ### ⚙️ Backend Development
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,python&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,python,django,flask,spring&theme=light" />
 </p>
 
 ### 🗄️ Databases
-<p align="left">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,firebase&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,sqlite,firebase&theme=light" />
 </p>
 
-### ☁️ DevOps & Deployment
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify&theme=light" />
+### ☁️ DevOps, Cloud & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,docker,linux&theme=light" />
 </p>
 
 ### 🧰 Tools & Utilities
-<p align="left">
-<img src="https://skillicons.dev/icons?i=vscode,postman,linux&theme=light" />
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,postman,npm,yarn&theme=light" />
 </p>
+
+---
+
+## 🎯 Goals & Roadmap
+
+### ✅ Current Goals
+- Build **production-grade full stack applications**
+- Strengthen **NestJS & backend architecture**
+- Design **automation-first systems**
+- Improve **code quality, testing & scalability**
+
+### 🚀 Future Goals
+- Work on **AI-powered & voice-driven products**
+- Build **SaaS platforms**
+- Contribute consistently to **open-source**
+- Move towards **technical leadership & mentorship**
 
 ---
 
@@ -121,7 +159,7 @@ Hands-free website navigation via voice commands
 
 ## 🏆 Achievements
 
-- 🦈 Pull Shark GitHub Badge  
+- 🦈 **Pull Shark GitHub Badge**
 - 🎓 Web & Mobile App Development — **SMIT**
 - 📜 SQL (Intro & Intermediate)
 - 📜 Git & GitHub
@@ -129,19 +167,9 @@ Hands-free website navigation via voice commands
 
 ---
 
-## 🎯 Engineering Vision
-
-- Build **production-ready SaaS & automation platforms**
-- Master **NestJS & backend system design**
-- Work on **AI + voice-enabled web systems**
-- Contribute to **open-source ecosystems**
-- Grow into a **technical lead & mentor**
-
----
-
 ## 🌐 Connect
 
-<p align="left">
+<p>
 <a href="https://www.linkedin.com/in/hafiz-mudassir-husain">
 <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat&logo=linkedin" />
 </a>
@@ -156,5 +184,5 @@ Hands-free website navigation via voice commands
 ---
 
 <p align="center">
-<b>Engineering systems that are scalable, automated, and built to last.</b>
+<b>Building scalable systems, automation platforms, and intelligent web solutions.</b>
 </p>
