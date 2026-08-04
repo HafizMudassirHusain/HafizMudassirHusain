@@ -10,7 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-mudassir-husain)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmudassir511@gmail.com)
 
-<img width="100%" src="https://github.com/user-attachments/assets/bee1adb3-0a4b-41c1-bc50-82b54e7e60cf" alt="Banner" />
 <img width="1915" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d1752a5e-a69f-4c8e-a9fc-8c58e53becb9" />
 </div>
 
