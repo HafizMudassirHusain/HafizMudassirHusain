@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-mudassir-husain)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hmudassir511@gmail.com)
 
-<a href="https://folios2-0.vercel.app/"> 
+<a href="https://folios2-0.vercel.app/" target="_blank"> 
 <img width="1915" height="1080" alt="Image" src="https://github.com/user-attachments/assets/d1752a5e-a69f-4c8e-a9fc-8c58e53becb9" />
 </div>
 </a>
